@@ -1,0 +1,60 @@
+@charset "UTF-8";
+body {
+    color: #000000;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"
+}
+
+h1 {
+    color: #716d6d;
+}
+
+h2 {
+	color: #93a6a9
+}
+
+a:link {
+	color: #ffffff;
+    text-decoration: none;
+}
+
+a:visited {
+	color: #d2d1ce;
+    text-decoration: none;
+	
+}
+
+a:hover {
+	color: #d2d1ce;
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
+#container {
+	width: 1420px;
+	background-color: #ffffff;
+}
+#banner{
+	width: 1420px;
+	height: 120px;
+	background-color:#d2d1ce;
+}
+#navigation{
+	height: 60px;
+	width: 1420px;
+}
+#body {
+	width: 1420px;
+	height: inherit;
+	background-color: #ffffff;
+}
+#footer {
+	width: 1420px;
+	height: 30px;
+	padding-top: 15px;
+	background-color: #658085;
+	text-align: center;
+	clear:both
+
+}
