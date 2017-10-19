@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE snowmaking_costs [
+<!ELEMENT snowmaking_costs (costs+)>
+<!ELEMENT costs (item, name, price)>
+<!ELEMENT item (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+]>
+
+<snowmaking_costs>
+	
+	<costs>
+		<item>Water</item>
+		<name>City of Edina Water Supply</name>
+		<price>~ $2000</price>
+	</costs>
+	
+	<costs>
+		<item>Air Compressor</item>
+		<name>Ziegler Air Compressor</name>
+		<price>??? (rented)</price>
+	</costs>
+	
+	<costs>
+		<item> Snowmaker </item>
+		<name>Cornice III Snowmaker</name>
+		<price>$1990</price>
+	</costs>
+	
+	<costs>
+		<item>Water Pump</item>
+		<name>Davey Self-Priming High Pressure Water Pump</name>
+		<price>$2700</price>
+	</costs>
+	
+	<costs>
+		<item>Snow Hose</item>
+		<name>Multiple 50 ft Long Sections</name>
+		<price>~ $400 ea.</price>
+	</costs>
+	
+	<costs>
+		<item>Sno-Cat</item>
+		<name>Track Inc. Sno-Cat</name>
+		<price>Varies (rented)</price>
+	</costs>
+		
+</snowmaking_costs>
+			
+			
+	
+		
