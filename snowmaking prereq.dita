@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="task_emq_djf_ybb">
+ <title>How to Make Snow: Prerequisites</title>
+    <taskbody>
+    <prereq>Make sure you have permission to use the water source you want to access to create
+            snow.<p>Also, before you begin set up, make sure you have the following
+                items:</p><ul id="ul_och_zfv_wbb">
+                    <li>Air compressor</li>
+                    <li>Snowmaker</li>
+                    <li>Water pump</li>
+                    <li>Snow hose</li>
+                    <li>Snowmaking chart</li>
+                    <li>A way to transport the snow</li>
+                </ul>
+    </prereq>
+    </taskbody>
+</task>

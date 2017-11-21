@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_gjs_bfv_wbb">
+    <title>How to Make Snow: Task Steps</title>
+    <taskbody>
+        
+        <steps> 
+            <step>
+                <cmd>Check the temperature and humidity and compare to a snowmaking chart to see if the weather conditions allow
+                    for snowmaking. </cmd>
+            </step>
+            <step>
+                <cmd>Check the oil and gas in the water pump to ensure it has enough of both to operate.</cmd>          
+                 <substeps>
+                     <substep>
+                        <cmd>Fill and repeat as needed.</cmd>
+                    </substep>
+                 </substeps>   
+            </step> 
+            <step>
+                <cmd>Attach hoses to air compressor, water pump, and snowmaker.</cmd>
+                <info><i>Ensure that hoses are not entangled.</i></info>
+            </step>
+            <step>
+                <cmd>Plug in and run the air compressor and water pump.</cmd>
+            </step>
+            <step>
+                <cmd>Completely open the air and water valves.</cmd>
+            </step>
+            <step>
+                <cmd>Run the snowmaker.</cmd>
+             <info><i>At the start of operation, allow excess ice to exit the snowmaker. </i></info>
+                <info><i>The water valve may need to be slowly shut to cut back on water intake if
+                        the snow appears to be too wet. </i></info>
+                <info><i>Switch out frozen hoses to allow the snowmaking process to continue without
+                        pause if the water or air hose appear constricted.</i></info>
+            </step>
+            <step>
+                <cmd>Monitor snow quality and adjust snowmaker position as it accumulates.</cmd>
+            </step>
+            <step>
+                <cmd>Transport snow to desired location and groom the trail.</cmd>
+            </step>
+            
+        </steps>
+    </taskbody>
+</task>
